@@ -1,0 +1,8 @@
+
+pyyaml
+loguru
+
+gunicorn
+flask
+requests
+

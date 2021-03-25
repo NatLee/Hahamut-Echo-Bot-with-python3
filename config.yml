@@ -1,0 +1,12 @@
+
+web:
+  port:
+    5000
+  host:
+    0.0.0.0
+
+key:
+  # Check with your bot list for details
+  # https://haha.gamer.com.tw/bot_list.php
+  token: <TOKEN>
+  secret: <SECRET>
